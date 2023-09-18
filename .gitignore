@@ -1,0 +1,9 @@
+# Ignorer les répertoires lier au developpement 
+/node_modules/
+
+# Ignorer les fichiers de configuration
+*.config.js
+
+
+# Ignorer les fichiers spécifiques à l'IDE ou à l'éditeur
+.vscode/
