@@ -19,11 +19,11 @@ Ce projet consiste en la création d'un composant QR Code en utilisant HTML et C
 
 - `index.html` : Fichier principal contenant la structure HTML du projet.
 - `assets/`
-  - 'styles'  : Dossier contenant le fichier CSS.
-  - 'fonts'   : Dossier contenant les fonts.
+  - 'styles/'  : Dossier contenant le fichier CSS.
+  - 'fonts/'   : Dossier contenant les fonts.
   - `images/` : Dossier contenant les images.
 
 
 ## Auteur
 
-[Gautier Nicolas]
+Gautier Nicolas
