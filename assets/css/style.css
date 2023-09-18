@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Outfit";
-    src: url(../fonts/Outfit/Outfit-VariableFont_wght.ttf);
+    src: url(../fonts/Outfit/Outfit-VariableFont-wght.ttf);
 }
 
 * {
@@ -12,7 +12,7 @@ body{
     background-color: #d5e1ef
 }
 
-.qr-code_wrapper {
+.qr-code-container {
     width: 100vw;
     height: 90vh;
     display: flex;
@@ -20,7 +20,7 @@ body{
     align-items: center;
 }
 
-.qr-code-content_wrapper {
+.qr-code-content {
     background-color: white;
     border-radius: 15px;
     text-align: center;
@@ -31,7 +31,7 @@ body{
     
 }
 
-.qr-code-text_wrapper {
+.qr-code-text {
     padding: 1rem;
 }
 
