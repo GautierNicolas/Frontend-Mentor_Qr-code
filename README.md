@@ -1,6 +1,6 @@
 # Projet QR Code HTML/CSS
 
-![Aperçu du projet](./design/desktop-preview.jpg)
+![Aperçu du projet](./assets/images/desktop-preview.jpg)
 
 Ce projet consiste en la création d'un composant QR Code en utilisant HTML et CSS. Il s'agit d'un défi de codage front-end proposé par [Frontend Mentor](https://www.frontendmentor.io). L'objectif était de reproduire le design fourni aussi fidèlement que possible.
 
