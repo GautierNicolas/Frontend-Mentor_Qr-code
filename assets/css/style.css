@@ -1,10 +1,11 @@
 @font-face {
     font-family: "Outfit";
-    src: url(../fonts/Outfit/Outfit-VariableFont-wght.ttf);
+    src: url(../fonts/Outfit/Outfit-VariableFont_wght.ttf);
 }
 
 * {
     font-family: 'Outfit', Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
 }
 
 body{
@@ -12,7 +13,7 @@ body{
     background-color: #d5e1ef
 }
 
-.qr-code-container {
+.qr-code_wrapper {
     width: 100vw;
     height: 90vh;
     display: flex;
@@ -24,15 +25,12 @@ body{
     background-color: white;
     border-radius: 15px;
     text-align: center;
-
-    padding: 1rem;
-    
-    width: 320px;
-    
+    padding: 1rem;    
+    width: 320px;    
 }
 
 .qr-code-text {
-    padding: 1rem;
+    padding: 0.2rem;
 }
 
 img {
@@ -51,8 +49,4 @@ p {
     color: #7D889E;
     font-weight: 400;
     font-size: 1.0625rem;
-}
-
-.attribution {
-    text-align: center;
 }
